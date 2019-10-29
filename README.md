@@ -7,3 +7,5 @@
 - Neural Collaborative Filtering (https://arxiv.org/abs/1708.05031) with implicit responses. As I expected, it doesn't perform well.
 
 - Character level RNN for name classification is implemented with Julia language deep learning package Flux. Almost same implementation with https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+
+- Lorenz system dynamics are learned with LSTM networks.
